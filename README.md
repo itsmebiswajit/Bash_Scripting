@@ -12,13 +12,13 @@ Core Features:
 
 
 2. Update & Clean<br>
-   <ul><li>Automated package updates (apt/dnf)</li>
-   <li>Cleans cache and temporary files</li></ul>
+<ul><li>Automated package updates (apt/dnf)</li>
+<li>Cleans cache and temporary files</li></ul>
 
 
 3. Log Monitor
 <ul><li>Real-time error tracking in system logs</li>
-<li>*Customizable monitoring duration
+<li>Customizable monitoring duration
 </li></ul>
 
 
@@ -28,7 +28,7 @@ Core Features:
 
 
 5. System Info
-6. <ul><li>OS, kernel, CPU, memory details</li>
+<ul><li>OS, kernel, CPU, memory details</li>
 <li>Uptime and basic diagnostics</li></ul>
 
 
