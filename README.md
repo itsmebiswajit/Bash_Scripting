@@ -9,9 +9,9 @@ Core Features:
 *Creates compressed backups with rotation (keeps last 3)<br>
 *Supports home directory or custom paths
 
-2. Update & Clean
-*Automated package updates (apt/dnf)<br>
-*Cleans cache and temporary files
+2. Update & Clean<br>
+   <ul><li>Automated package updates (apt/dnf)</li>
+   <li>Cleans cache and temporary files</li>
 
 3. Log Monitor
 *Real-time error tracking in system logs<br>
