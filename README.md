@@ -17,7 +17,7 @@ A bash-based automation suite for Linux system maintenance tasks. This project d
 <li>Cleans cache and temporary files</li></ul>
 
 
-3. Log Monitor
+3. <u>Log Monitor</u>
 <ul><li>Real-time error tracking in system logs</li>
 <li>Customizable monitoring duration
 </li></ul>
@@ -47,7 +47,6 @@ Package manager integration
 <h3>Requirements:</h3> Linux OS with standard utilities and sudo access
 
 
-<br>
 <br>
 <br>
 <br>
@@ -120,6 +119,6 @@ Package manager integration
 <br>
 <br>
 
-<h3>Conclusion</h3>
+<h2>Conclusion</h2>
 The Linux System Maintenance Suite successfully demonstrates the practical application of shell scripting for automated system administration. This project effectively addresses real-world Linux maintenance needs through a streamlined, user-friendly interface.
 
