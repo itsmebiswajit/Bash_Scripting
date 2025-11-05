@@ -6,24 +6,31 @@ A bash-based automation suite for Linux system maintenance tasks. This project d
 Core Features:
 
 1. Backup System
-*Creates compressed backups with rotation (keeps last 3)<br>
-*Supports home directory or custom paths
+
+<ul><li>Creates compressed backups with rotation (keeps last 3)</li>
+<li>Supports home directory or custom paths</li></ul>
+
 
 2. Update & Clean<br>
    <ul><li>Automated package updates (apt/dnf)</li>
-   <li>Cleans cache and temporary files</li>
+   <li>Cleans cache and temporary files</li></ul>
+
 
 3. Log Monitor
-*Real-time error tracking in system logs<br>
-*Customizable monitoring duration
+<ul><li>Real-time error tracking in system logs</li>
+<li>*Customizable monitoring duration
+</li></ul>
+
 
 4. Disk Check
-*Disk usage analysis<br>
-*Large file identification
+<ul><li>Disk usage analysis</li>
+<li>Large file identification</li></ul>
+
 
 5. System Info
-*OS, kernel, CPU, memory details<br>
-*Uptime and basic diagnostics
+6. <ul><li>OS, kernel, CPU, memory details</li>
+<li>Uptime and basic diagnostics</li></ul>
+
 
 
 LSP Concepts Used:
