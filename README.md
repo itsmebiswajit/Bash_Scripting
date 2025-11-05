@@ -1,4 +1,23 @@
 # Bash_Scripting
 This is for Wipro Training
 
-![image alt](https://github.com/itsmebiswajit/Bash_Scripting/blob/4f9b7d47ed4651c8fcc4a13430d0a4d4c3a23a27/Screenshot%20from%202025-11-05%2011-28-33.png)
+
+
+
+![image alt](https://github.com/itsmebiswajit/Bash_Scripting/blob/e9972cb07976d22e4255fc0731ee7f5cd3288ca7/image1.png)
+
+![image alt](https://github.com/itsmebiswajit/Bash_Scripting/blob/e9972cb07976d22e4255fc0731ee7f5cd3288ca7/image2.png)
+
+![image alt](https://github.com/itsmebiswajit/Bash_Scripting/blob/e9972cb07976d22e4255fc0731ee7f5cd3288ca7/image3.png)
+
+![image alt](https://github.com/itsmebiswajit/Bash_Scripting/blob/e9972cb07976d22e4255fc0731ee7f5cd3288ca7/image4.png)
+
+![image alt](https://github.com/itsmebiswajit/Bash_Scripting/blob/e9972cb07976d22e4255fc0731ee7f5cd3288ca7/image5.png)
+
+![image alt](https://github.com/itsmebiswajit/Bash_Scripting/blob/e9972cb07976d22e4255fc0731ee7f5cd3288ca7/image6.png)
+
+![image alt](https://github.com/itsmebiswajit/Bash_Scripting/blob/e9972cb07976d22e4255fc0731ee7f5cd3288ca7/image7.png)
+
+![image alt](https://github.com/itsmebiswajit/Bash_Scripting/blob/e9972cb07976d22e4255fc0731ee7f5cd3288ca7/image8.png)
+
+![image alt](https://github.com/itsmebiswajit/Bash_Scripting/blob/e9972cb07976d22e4255fc0731ee7f5cd3288ca7/image9.png)
