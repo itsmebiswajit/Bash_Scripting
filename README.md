@@ -4,7 +4,7 @@
 A bash-based automation suite for Linux system maintenance tasks. This project demonstrates practical Linux system programming through essential administration functions.
 
 <br>
-<h3>Core Features:</h3>
+<h3><u>Core Features:</u></h3>
 
 1. Backup System
 
