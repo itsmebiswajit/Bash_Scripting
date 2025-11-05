@@ -3,7 +3,7 @@
    
 A bash-based automation suite for Linux system maintenance tasks. This project demonstrates practical Linux system programming through essential administration functions.
 
-
+<br>
 <h3>Core Features:</h3>
 
 1. Backup System
@@ -42,10 +42,10 @@ System monitoring (/proc, logs, disk)
 Package manager integration
 
 
-Use Cases: System maintenance, health checks, learning Linux programming
+<h3>Use Cases:</h3> System maintenance, health checks, learning Linux programming
 
 
-Requirements: Linux OS with standard utilities and sudo access
+<h3>Requirements:</h3> Linux OS with standard utilities and sudo access
 
 
 <br>
