@@ -34,8 +34,7 @@ A bash-based automation suite for Linux system maintenance tasks. This project d
 
 
 
-LSP Concepts Used:
-
+<h3>LSP Concepts Used:</h3>
 File system operations (tar, rm, mkdir)
 Process management (timeout, grep)
 System monitoring (/proc, logs, disk)
@@ -54,9 +53,8 @@ Package manager integration
 <br>
 
 
-<h3>Detailed Steps:</h3> 
+<h2>Detailed Steps:</h2> 
 
-<br>
 
 1) Create and run main.sh file
 
