@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Capstone Project
-# ASSIGNMENT 5(LinuxOS and LSP)
+# ASSIGNMENT 5 (LinuxOS and LSP)
 # Bash Scripting Suite for System Maintenance
 
 
