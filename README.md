@@ -14,6 +14,17 @@ This is for Wipro Training
 
 
 
+
+<br>
+<br>
+
+
+
+
+
+
+
+
 3) By click option 1 we can take Syatem backup
    
 ![image alt](https://github.com/itsmebiswajit/Bash_Scripting/blob/e9972cb07976d22e4255fc0731ee7f5cd3288ca7/image3.png)
