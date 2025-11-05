@@ -6,23 +6,23 @@ A bash-based automation suite for Linux system maintenance tasks. This project d
 Core Features:
 
 1. Backup System
-*Creates compressed backups with rotation (keeps last 3)
+*Creates compressed backups with rotation (keeps last 3)<br>
 *Supports home directory or custom paths
 
 2. Update & Clean
-*Automated package updates (apt/dnf)
+*Automated package updates (apt/dnf)<br>
 *Cleans cache and temporary files
 
 3. Log Monitor
-*Real-time error tracking in system logs
+*Real-time error tracking in system logs<br>
 *Customizable monitoring duration
 
 4. Disk Check
-*Disk usage analysis
+*Disk usage analysis<br>
 *Large file identification
 
 5. System Info
-*OS, kernel, CPU, memory details
+*OS, kernel, CPU, memory details<br>
 *Uptime and basic diagnostics
 
 
@@ -40,9 +40,14 @@ Use Cases: System maintenance, health checks, learning Linux programming
 Requirements: Linux OS with standard utilities and sudo access
 
 
-
-<h3>Detailed Steps</h3> 
 <br>
+<br>
+<br>
+<br>
+
+
+<h3>Detailed Steps:</h3> 
+
 <br>
 
 1) Create and run main.sh file
