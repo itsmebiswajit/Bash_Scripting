@@ -1,6 +1,49 @@
-# Bash_Scripting
-This is for Wipro Training
 
+Overview:
+A bash-based automation suite for Linux system maintenance tasks. This project demonstrates practical Linux system programming through essential administration functions.
+
+
+Core Features:
+
+1. Backup System
+*Creates compressed backups with rotation (keeps last 3)
+*Supports home directory or custom paths
+
+2. Update & Clean
+*Automated package updates (apt/dnf)
+*Cleans cache and temporary files
+
+3. Log Monitor
+*Real-time error tracking in system logs
+*Customizable monitoring duration
+
+4. Disk Check
+*Disk usage analysis
+*Large file identification
+
+5. System Info
+*OS, kernel, CPU, memory details
+*Uptime and basic diagnostics
+
+
+LSP Concepts Used:
+
+File system operations (tar, rm, mkdir)
+Process management (timeout, grep)
+System monitoring (/proc, logs, disk)
+Package manager integration
+
+
+Use Cases: System maintenance, health checks, learning Linux programming
+
+
+Requirements: Linux OS with standard utilities and sudo access
+
+
+
+<h3>Detailed Steps</h3> 
+<br>
+<br>
 
 1) Create and run main.sh file
 
