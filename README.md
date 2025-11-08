@@ -1,7 +1,7 @@
    
-<h2>Overview:</h2>
+<h2>Objective:</h2>
    
-A bash-based automation suite for Linux system maintenance tasks. This project demonstrates practical Linux system programming through essential administration functions.
+Write a suite of Bash scripts to automate system maintenance tasks such as backup, system updates, and log monitoring.
 
 <br>
 <h3><u>Core Features:</u></h3>
