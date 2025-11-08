@@ -22,6 +22,8 @@ Write a suite of Bash scripts to automate system maintenance tasks such as backu
 <li>Customizable monitoring duration
 </li></ul>
 
+<br>
+
 
 4. Disk Check
 <ul><li>Disk usage analysis</li>
@@ -32,7 +34,7 @@ Write a suite of Bash scripts to automate system maintenance tasks such as backu
 <ul><li>OS, kernel, CPU, memory details</li>
 <li>Uptime and basic diagnostics</li></ul>
 
-
+<br>
 
 <h3>LSP Concepts Used:</h3>
 File system operations (tar, rm, mkdir)
