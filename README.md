@@ -22,8 +22,6 @@ Write a suite of Bash scripts to automate system maintenance tasks such as backu
 <li>Customizable monitoring duration
 </li></ul>
 
-<br>
-
 
 4. Disk Check
 <ul><li>Disk usage analysis</li>
@@ -42,8 +40,12 @@ Process management (timeout, grep)
 System monitoring (/proc, logs, disk)
 Package manager integration
 
+<br>
+
 
 <h3>Use Cases:</h3> System maintenance, health checks, learning Linux programming
+
+<br>
 
 
 <h3>Requirements:</h3> Linux OS with standard utilities and sudo access
